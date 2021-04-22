@@ -1,6 +1,11 @@
-## Simple Tip Calculator
+## Simple Tip Calculator | <img src="https://img.shields.io/badge/Build-with%20Flutter-blue"> | <img src="https://img.shields.io/badge/%20Build%20with-Dart%20Programming%20Language-blue"> | <img src="https://img.shields.io/badge/Platform-iOS%2FAndroid%2FWeb-red">
+
 
 Hi there, this is my first Flutter project.The code for this app has been written in Android Studio with Dart Programming Language.The Tip Calculator calculates tip amount for various percentages of the cost of the service, and also provides a total amount that includes the tip. In the US, a tip of 15% of the before tax meal price is typically expected.
+
+## Screenshots App
+
+<img  height="700" src="https://user-images.githubusercontent.com/76481422/115727771-9970fd80-a38c-11eb-900b-3954603a6d7b.png" style="max-width:100%">    <img  height="700" src="https://user-images.githubusercontent.com/76481422/115727831-a68dec80-a38c-11eb-914b-f1141df17964.png" style="max-width:100%">
 
 ## What is a tip?
 
@@ -8,13 +13,6 @@ A tip or gratuity is an extra sum of money paid to certain service workers for a
 
 Below is a map that provides some information regarding whether or not a tip is expected, or how a tip may be received in certain regions, as well as a table of typical tip amounts in the United States and Canada for different services.
 
+## IMPORTANT
 
-
-
-
-## Screenshots App
-
-<img  height="700" src="https://user-images.githubusercontent.com/76481422/115727771-9970fd80-a38c-11eb-900b-3954603a6d7b.png" style="max-width:100%">    <img  height="700" src="https://user-images.githubusercontent.com/76481422/115727831-a68dec80-a38c-11eb-914b-f1141df17964.png" style="max-width:100%">
-
-
-
+The app calculate tip for 1 person!
